@@ -1,0 +1,433 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+.nosotros{
+    
+    text-align: center;
+
+}
+.p1{
+    text-align: center;
+    font-size: 23px;
+
+}
+.contenedor-main{
+    margin: 1px;
+    margin-top: 25px;
+   
+}
+.logo{
+    width: 100%;
+   
+}
+.nosotros:hover{
+    color: brown;
+}
+.p1:hover{
+    color: brown;
+}
+.navbar-brand{
+    color: brown;
+}
+.nav-link:hover{
+    color: white;
+}
+
+
+.logo{
+    transition: transform .3s ease-out;
+}
+.logo:hover{
+    transform: scale(.8);
+}
+.logo1{
+    width: 52%;
+    position:relative;
+    left: 120px;
+}
+.contenedor-main1{
+    margin: 1px;
+    margin-top: 25px;
+    background-color: white;
+   
+}
+.nosotros1{
+    
+    text-align: center;
+color: black;
+}
+.p11{
+    text-align: center;
+    font-size: 23px;
+    color: black;
+
+}
+.nosotros1:hover{
+    color: brown;
+}
+
+.logo11{
+    width: 54%;
+    position:relative;
+    left: 120px;
+}
+.logo11{
+    transition: transform .3s ease-out;
+}
+.logo11:hover{
+    transform: scale(.8);
+}
+hr {
+    width: 200px
+    ;
+   
+}
+.reloj{
+    color: black;
+    position: relative;
+    left: 278px;
+    
+}
+.lucas{
+    
+    color: black;
+    position: relative
+    ;
+    left: 280px;
+
+}
+.ubicacion{
+    position: relative
+    ;
+    left: 280px;
+}
+.calufe{
+    position: relative;
+    left: 100px;
+    padding: 20px;
+    font-size: 20px;
+}
+.lunes{
+    position: relative;
+    left: 120px;
+    padding: 20px;
+    font-size: 20px;
+}
+.sabado{
+    position: relative;
+    left: 170px;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.numero{
+    position: relative;
+    left: 220px;
+    padding: 15px;
+    font-size: 20px;
+}
+.ubicacion:hover{
+    color: brown;
+}
+.calufe:hover{
+    color: brown;
+}
+.reloj:hover{
+    color: brown;
+}
+.lunes:hover{
+    color: brown;
+}
+.sabado:hover{
+    color: brown;
+}
+.numero:hover{
+    color: brown;
+}
+.lucas:hover{
+    color: brown;
+}
+
+.widgets{
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+}
+.widgets >div{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.imagen10{
+    width: 100%;
+    clip-path: inset(0 0 6% 0);
+}
+.titulo1{
+    text-align: center;
+    margin-top: -25px;
+}
+.imagen21{
+    width: 100%;
+    clip-path: inset(0 0 3% 0);
+}
+.titulo2{
+    text-align: center;
+    margin-top: -13px;
+}
+.imagen22{
+    width: 100%;
+}
+.titulo3{
+    text-align: center;
+}
+.titulo10{
+    text-align: center;
+    margin-top: 20px;
+}
+.imagen10{
+    transition: transform .3s ease-out;
+    border-radius: 20%;
+}
+.imagen10:hover{
+    transform: scale(.8);
+}
+.imagen21{
+    transition: transform .3s ease-out;
+    border-radius: 20%;
+}
+.imagen21:hover{
+    transform: scale(.8);
+}
+.imagen22{
+    transition: transform .3s ease-out;
+    border-radius: 20%;
+}
+.imagen22:hover{
+    transform: scale(.8);
+}
+.titulo10:hover{
+    color: brown;
+}
+.titulo1:hover{
+    color: brown;
+}
+.titulo2:hover{
+    color: brown;
+}
+.titulo3:hover{
+    color: brown;
+}
+.logo11{
+    border-radius: 20%;
+}
+.logo{
+    border-radius: 20%;
+}
+.acc{
+    text-align: center;
+}
+.imagen30{
+    width: 120%;
+    position: relative;
+    left: 100px;
+    border-radius: 20%;
+}
+.imagen32{
+    width: 100%;
+    position: relative;
+    left: 300px;
+    border-radius: 20%;
+}
+.titulo20{
+    position: relative;
+    left: 400px;
+}
+.titulo22{
+    position: relative;
+    left: 230px;
+}
+.acc:hover{
+color: brown;
+}
+.imagen30:hover{
+    transform: scale(.8);
+}
+.imagen30{
+    transition: transform .3s ease-out;
+    border-radius: 20%;
+}
+.imagen32:hover{
+    transform: scale(.8);
+}
+.imagen32{
+    transition: transform .3s ease-out;
+    border-radius: 20%;
+}
+.precios{
+    text-align: center;
+
+}
+.traje1{
+    width: 25%;
+    text-align: center;
+    align-items: center;
+    border-radius: 20%;
+}
+.accesorios{
+    width: 25%;
+    text-align: center;
+    align-items: center;
+    border-radius: 20%;
+}
+.chalecos{
+    width: 25%;
+    text-align: center;
+    align-items: center;
+    border-radius: 20%;
+}
+.zapatos{
+    width: 25%;
+    text-align: center;
+    align-items: center;
+    border-radius: 20%;
+}
+.titulo29:hover{
+    color: brown;
+}
+.titulo30:hover{
+    color: brown;
+}
+.titulo4:hover{
+    color: brown;
+}
+.traje1:hover{
+    transform: scale(.8);
+}
+.traje1{
+    transition: transform .3s ease-out;
+}
+.accesorios:hover{
+    transform: scale(.8);
+}
+.accesorios{
+    transition: transform .3s ease-out;
+}
+.chalecos:hover{
+    transform: scale(.8);
+}
+.chalecos{
+    transition: transform .3s ease-out;
+}
+.zapatos:hover{
+    transform: scale(.8);
+}
+.zapatos{
+    transition: transform .3s ease-out;
+}
+.d-block{
+    width:20%;
+}
+.carousel{
+    width: 30%;
+    height: 50%;
+    position: relative
+    ;
+    left: 250px;
+}
+.carousel2{
+    width: 30%;
+    height: 50%;
+    position: relative
+    ;
+    left: 250px;
+}
+.contenedor101{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+.trajes10:hover{
+    color: brown;
+}
+.trajes10{
+    color: white;
+}
+.contenedor100{
+    background-color: black;
+}
+.trajes100{
+    color: black;
+}
+.trajes100:hover{
+    color: brown;
+}
+.contenedor1001{
+    display: flex;
+    flex-direction: row;
+}
+.contenedor1001 img{
+    width: 40%;
+    position: relative;
+    left: 100px;
+    margin: 20px;
+}
+.contenedor1000 h1{
+    text-align: center;
+    margin: 20px;
+}
+.contenedor1000 h1:hover{
+    color: brown;
+}
+.contenedor1000 h2{
+    text-align: center;
+}
+.contenedor1000 h2:hover{
+    color: brown;
+}
+.contenedor1001 img{
+    transition: transform .3s ease-out;
+}
+.contenedor1001 img:hover{
+    transform: scale(.8);
+}
+
+.contenedor2000{
+    background-color: black;
+}
+.contenedor2000 h1{
+    color: white;
+    text-align: center;
+}
+.contenedor2000 h2{
+    color: white;
+    text-align: center;
+}
+.bi{
+    color: white;
+    position: relative;
+    left: 480px;
+}
+.bii{
+    color: white;
+    position: relative;
+    left: 570px;
+}
+.contenedor2000 h1:hover{
+    color: brown;
+}
+.contenedor2000 h2:hover{
+    color: brown;
+}
+.bi:hover{
+    color: brown;
+}
+.bii:hover{
+    color: brown;
+}
+.biii:hover{
+    color: brown;
+}
+.biii{
+    color: white;
+    position: relative;
+    left: 560px;
+}
